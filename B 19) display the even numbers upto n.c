@@ -4,7 +4,7 @@
 int main()
 {
 	int i, n;
-	printf("enter a number\n");
+	printf("enter a number upto where you want even numbers\n");
 	scanf("%d", &n);
 	for (i = 0; i <= n; i = i + 2)
 		printf("%d \n", i);

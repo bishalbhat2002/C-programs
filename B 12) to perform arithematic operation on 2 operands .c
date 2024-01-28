@@ -1,4 +1,4 @@
-// Program to perform arithemetic operation on 2 operands.
+// Program to perform arithmetic operation on 2 operands.
 
 #include <stdio.h>
 

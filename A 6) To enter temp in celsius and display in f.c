@@ -1,4 +1,4 @@
-// program to enter temperature in celsius and display temp in farenheit..
+// program to enter temperature in celsius and display temp in fahrenheit..
 
 #include <stdio.h>
 
@@ -8,6 +8,6 @@ int main()
     printf("Enter temperature in celsius : ");
     scanf("%f", &c);
     f = (1.8 * c) + 32;
-    printf("Temperature in farenheit : %f", f);
+    printf("Temperature in fahrenheit : %f", f);
     return 0;
 }
